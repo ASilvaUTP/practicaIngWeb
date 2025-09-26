@@ -1,4 +1,4 @@
-# practicaIngWeb
+# practica1IngWeb
 
 # Documentación - Problemas de PHP con Bucles y Arrays
 
